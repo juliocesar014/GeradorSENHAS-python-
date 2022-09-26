@@ -31,3 +31,4 @@
     # print(passwords)
 
 ## Senha gerada com sucesso!!
+## OK.
